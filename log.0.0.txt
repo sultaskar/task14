@@ -1,0 +1,26 @@
+июл 09, 2020 1:28:32 PM ru.sultanov.VendingAutomat main
+INFO: Выход из системы
+июл 09, 2020 1:42:17 PM ru.sultanov.VendingAutomat main
+INFO: Выход из системы
+июл 09, 2020 8:41:53 PM ru.sultanov.VendingAutomat main
+INFO: Запрос на просмотр меню
+июл 09, 2020 8:42:05 PM ru.sultanov.VendingAutomat main
+INFO: Запрос на покупку товара
+июл 09, 2020 8:42:09 PM ru.sultanov.VendingAutomatOperator buyDrink
+WARNING: Введен некорректный номер напитка
+июл 09, 2020 8:42:22 PM ru.sultanov.VendingAutomat main
+INFO: Запрос на покупку товара
+июл 09, 2020 8:44:35 PM ru.sultanov.VendingAutomat main
+INFO: Запрос на внесение денег
+июл 09, 2020 8:48:38 PM ru.sultanov.VendingAutomat main
+INFO: Запрос на просмотр меню
+июл 09, 2020 8:48:44 PM ru.sultanov.VendingAutomat main
+INFO: Запрос на внесение денег
+июл 09, 2020 8:53:21 PM ru.sultanov.VendingAutomat main
+INFO: Запрос на внесение денег
+июл 09, 2020 8:53:23 PM ru.sultanov.VendingAutomat main
+INFO: Выход из системы
+июл 09, 2020 8:55:24 PM ru.sultanov.VendingAutomat main
+INFO: Запрос на внесение денег
+июл 09, 2020 8:58:17 PM ru.sultanov.VendingAutomat main
+INFO: Выход из системы
